@@ -26,9 +26,13 @@ body {
 }
 
 section {
-	max-width: 1200px;
+	max-width: 100%;
 	margin: 0 auto;
-	padding: 100px 0;
+	padding: 100px;
+}
+
+section.secondary {
+	background-color: #f8f8f8;
 }
 
 header {
